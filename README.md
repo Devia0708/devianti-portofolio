@@ -1,34 +1,4 @@
-# devianti-portofolio
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portofolio Devianti Nur Taufik</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px auto;
-      max-width: 800px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    ul {
-      line-height: 1.6;
-    }
-    section {
-      margin-bottom: 30px;
-    }
-    .contact a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
+
   <h1>Devianti Nur Taufik</h1>
   <p><strong>Email:</strong> <a href="mailto:deviantinurtaufik7801@gmail.com">deviantinurtaufik7801@gmail.com</a> <br>
      <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/devianti-nur-taufik" target="_blank">linkedin.com/in/devianti-nur-taufik</a> <br>
